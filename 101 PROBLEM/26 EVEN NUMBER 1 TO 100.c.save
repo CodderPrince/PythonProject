@@ -1,0 +1,13 @@
+    #include<stdio.h>
+    int main()
+    {
+        int row, col;
+        for(row=1; row<=col; row++)
+        {
+            for(col=1; col<=row; col++)
+            {
+                printf("")
+            }
+        }
+return 0;
+    }
