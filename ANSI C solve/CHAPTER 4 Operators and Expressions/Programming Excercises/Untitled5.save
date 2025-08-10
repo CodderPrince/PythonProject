@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+double Purchase Price, Salvage Value, Years of Service, Depreciation;
+printf("Enter the all value: ");
+scanf("%lf%lf%lf",&Purchase Price,&alvage Value,&Years of Service);
+
+Depreciation= ()Purchase Price - Salvage Value)/()
+return 0;
+}
