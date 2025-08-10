@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+   float Rice= Rs 16.75, Sugar= Rs 15.00;
+printf("***LIST OF ITEMS***");
+printf("Item
+    return 0;
+}
