@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+int i;
+printf("Enter integer value 1 to 128:\n);
+for(i=0; i<=128; i++)
+{
+printf("%d=%c",i);
+}
+
+
+return 0;
+}
