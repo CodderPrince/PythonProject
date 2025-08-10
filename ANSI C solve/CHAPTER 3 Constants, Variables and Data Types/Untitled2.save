@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+int amount,ext;
+printf("Input the total amount: ");
+scanf("%d", &amount);
+ext= amount/100;
+amount= amount-(ext*100);
+printf("%d * 100= %d\n", ext)
+
+
+return 0;
+}
