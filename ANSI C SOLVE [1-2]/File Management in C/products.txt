@@ -1,0 +1,20 @@
+Product Code: 101
+Cost: $100.00
+Quantity: 5
+
+Product Code: 102
+Cost: $45.00
+Quantity: 5
+
+Product Code: 103
+Cost: $87.00
+Quantity: 45
+
+Product Code: 104
+Cost: $41.00
+Quantity: 12
+
+Product Code: 105
+Cost: $456.00
+Quantity: 457
+
