@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+double m1,m2,g,torque;
+printf("Enter the value of m1,m2,g: ");
+scanf("%lf%lf%lf",&m1,&m2,&g);
+torque= 2*m1*m2*g/(m1+m2);
+
+
+return 0;
+}
