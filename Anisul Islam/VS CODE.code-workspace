@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "VS CODE",
+			"path": "../.."
+		},
+		{
+			"name": "PRACTICE",
+			"path": "../../CODEFORCE/PRACTICE"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"231.C": "cpp",
+			"501.C": "cpp",
+			"24.C": "cpp",
+			"iostream": "cpp",
+			"random": "c",
+			"cmath": "c",
+			"complex": "c",
+			"7-9.C": "cpp"
+		}
+	}
+}
