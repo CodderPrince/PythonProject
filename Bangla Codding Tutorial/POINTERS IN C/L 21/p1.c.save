@@ -1,0 +1,11 @@
+#include<stdio.h>
+void even_or_odd(int x){
+if(x%2==0)
+{
+    pritnf("EVEN\n");
+}
+else{
+    printf("ODD\n");
+}
+int main()
+}
