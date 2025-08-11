@@ -1,0 +1,25 @@
+#include<stdio.h>
+float add(float x, float y){
+return x+y;
+}
+float subtraction(float x, float y){
+return x-y;
+}
+float multiply(float x, float y){
+return x*y;
+}
+float divide(float x, float y){
+return x/y;
+}
+
+int main(){
+float x,y;
+printf("Enter te value of x and y:\n");
+scanf("%f%f",&x,&y);
+printf("x=%f\ty=%f\n",x,y);
+float add_result = add(x,y);
+float substract_result = add(x,y);
+float multiply_result = add(x,y);
+float divide_result = add(x,y);
+printf("\tAdd=%f\n\tSubstract=%f\n\tMultiply=%f\n\tDivide=%f",add_result,substract_result,multiply_result,divide_result);
+}
